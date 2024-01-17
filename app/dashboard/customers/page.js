@@ -1,5 +1,5 @@
 export default function Page(){
     return(
-        <p>Customers page</p>
+        <p>Customers page!</p>
     )
 }
